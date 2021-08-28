@@ -26,8 +26,8 @@ Pair with the following syllabus I created and use this as a way to measure prog
 
 # This Project
 ### Downloading this project
-- Make sure you have Git installed, hit Git Clone as seen in the screenshot
-- Copy the URL
+![image](https://user-images.githubusercontent.com/7976517/131232750-6e8812e5-f1f3-45ff-808b-e83f6fd9915b.png)
+- Make sure you have Git installed, hit Code, then Local, then Copy as seen in the screenshot above the URL to this repository.
 - Open Git Bash on your desktop by right clicking
 
 ### Basic Shortcuts and Usage of Visual Studio
