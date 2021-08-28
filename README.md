@@ -1,6 +1,4 @@
 # LearnCSharp
-THIS IS A WORK IN PROGRESS AND NOT COMPLETED YET. LAST UPDATE 8/28/21
-
 This should be paired with the following syllabus I created here and it approximately follows it: http://www.crystaltenn.com/2020/03/learn-c-from-scratch-comprehensive.html
 
 ### Overview
@@ -18,18 +16,11 @@ The solution is split into the following parts:
   - Basics Part 1: Learn types, variables, methods, collections (arrays and lists), and loops
   - Basics Part 2: Learn classes, properties, constructors, and basic object oriented programming
 
-### What is programming?
-
-### What is C#?
-
-### What is web development?
-
-### What are other languages and areas of development?
-
 ### Download Visual Studio Community (free)
 - Go to the following url to download Visual Studio Community which is free: https://visualstudio.microsoft.com/vs/community/
 
 ### Install Git (free)
+https://git-scm.com/downloads
 
 ### Downloading this project
 - Hit Git Clone as seen in the screenshot
@@ -46,13 +37,12 @@ The solution is split into the following parts:
 - Click on the Run button as seen or hit the shortcut F5. 
 
 # Table of Contents / Syllabus / How to Use This Guide
-This guide can be used with no experience programming at all. 
+This guide can be used with no experience programming at all. Go into the Program.cs file and follow the instructions and order there. This would be best used with the mentorship/help of a C# developer.  The ideal scenario is for a 1:1 pair programming between a mentor and mentee and for the mentor to use this project as a guidance and help as needed and especially for the mentor to kickstart how to use Visual Studio, do basic work, and help a lot with the first few projects. 
 
 ### Basics Part 1 (everything before classes)
 - Project 1: Intro and Fizz Buzz Problem
 - Project 2a: Simple Calculator to Add, Subtract, Divide, Multiply 2 numbers. No separate methods and expanded variable assignment
 - Project 2b: Similar Calculator with separate methods
-
 - Types, variables + initialization, methods, parameters, if/else, case/switch
   - Calculator
   - Tic Tac Toe
