@@ -22,7 +22,7 @@ Pair with the following syllabus I created and use this as a way to measure prog
 
 ### Visual Studio 
 - [Getting Started with Visual Studio 2019](https://www.youtube.com/watch?v=1CgsMtUmVgs)  **Version 2019 doesn't matter, this will apply to newer versions
-- [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) It's 4.5 hours but will get you started and is well worth the time and will prevent you from struggling through how to use VS because you can follow along in the tutorial video. 
+- [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) It's 4.5 hours but will get you started and is well worth the time and will prevent you from struggling through how to use VS because you can follow along in the tutorial video. **Watch this 100% if you do not have a mentor otherwise it is easy to get lost in Visual Studio and hard to learn to use this IDE without any help**
 
 # This Project
 ### Downloading this project
@@ -43,11 +43,8 @@ Pair with the following syllabus I created and use this as a way to measure prog
 - F11 to step into a method
 - CTRL + SHIFT + B build project
 
-### Debugging in Visual Studio
-- Click on the Run button as seen or hit the shortcut F5. 
-
 # How to Use This Guide
-This guide can be used with no experience programming at all. Go into the Program.cs file and follow the instructions and order there. This would be best used with the mentorship/help of a C# developer.  The ideal scenario is for a 1:1 pair programming between a mentor and mentee and for the mentor to use this project as a guidance and help as needed and especially for the mentor to kickstart how to use Visual Studio, do basic work, and help a lot with the first few projects. 
+Go into the `Program.cs` file and follow the instructions and order there.  If you do not have a mentor or do not know how to use Visual Studio, watch the video linked above or click here: https://www.youtube.com/watch?v=GhQdlIFylQ8
 
 # Content
 ### Basics Part 1 (everything before classes)
