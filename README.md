@@ -22,6 +22,7 @@ Pair with the following syllabus I created and use this as a way to measure prog
 
 ### Visual Studio 
 - [Getting Started with Visual Studio 2019](https://www.youtube.com/watch?v=1CgsMtUmVgs)  **Version 2019 doesn't matter, this will apply to newer versions
+- [Learn to code in Visual Studio](https://visualstudio.microsoft.com/vs/getting-started/) **Must watch the video labelled "Getting Started with Visual Studio IDE"
 - [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) It's 4.5 hours but will get you started and is well worth the time and will prevent you from struggling through how to use VS because you can follow along in the tutorial video. **Watch this 100% if you do not have a mentor otherwise it is easy to get lost in Visual Studio and hard to learn to use this IDE without any help**
 
 # This Project
