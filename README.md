@@ -11,8 +11,8 @@ Pair with the following syllabus I created and use this as a way to measure prog
 
 # Pre-requisites
 ### Download Visual Studio Community (free)
-- Go to the following url to download Visual Studio Community which is free: https://visualstudio.microsoft.com/vs/community/
-- If you have any issues installing or don't know what to install, go here: https://www.youtube.com/watch?v=nbbIesdfCSI
+- [Download Visual Studio Community which is free](https://visualstudio.microsoft.com/vs/community/)
+- If you have any issues installing or don't know what to install, [then click here for help](https://www.youtube.com/watch?v=nbbIesdfCSI) 
 
 ### Install Git (free)
 - https://git-scm.com/downloads *Just hit Next on the installer and get all defaults
