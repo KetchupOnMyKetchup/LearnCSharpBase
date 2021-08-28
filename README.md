@@ -26,7 +26,7 @@ Pair with the following syllabus I created and use this as a way to measure prog
 
 # This Project
 ### Downloading this project
-- Hit Git Clone as seen in the screenshot
+- Make sure you have Git installed, hit Git Clone as seen in the screenshot
 - Copy the URL
 - Open Git Bash on your desktop by right clicking
 
