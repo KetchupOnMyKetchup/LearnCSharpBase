@@ -22,8 +22,11 @@ Pair with the following syllabus I created and use this as a way to measure prog
 
 ### Visual Studio 
 - [Getting Started with Visual Studio 2019](https://www.youtube.com/watch?v=1CgsMtUmVgs)  **Version 2019 doesn't matter, this will apply to newer versions
-- [Learn to code in Visual Studio](https://visualstudio.microsoft.com/vs/getting-started/) **Must watch the video labelled "Getting Started with Visual Studio IDE"
-- [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) It's 4.5 hours but will get you started and is well worth the time and will prevent you from struggling through how to use VS because you can follow along in the tutorial video. **Watch this 100% if you do not have a mentor otherwise it is easy to get lost in Visual Studio and hard to learn to use this IDE without any help**
+- [Learn to code in Visual Studio](https://visualstudio.microsoft.com/vs/getting-started/) **Must watch the video labelled "Getting Started with Visual Studio IDE" within this link!
+
+Take your pick between the below two, do both, do one of them, but use this to learn how to use Visual Studio and get started with programming in C#.  If you are working alone you will 100% need one or both of these to get started:
+- [C# Tutorial For Beginners - Learn C# Basics in 1 Hour](https://www.youtube.com/watch?v=gfkTfcpWqAY) (1 hour)
+- [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) (4.5 hours)
 
 # This Project
 ### Downloading this project
@@ -65,7 +68,7 @@ Learn types, variables, methods, collections (arrays and lists), and loops
 - Different syntaxes / shortcut (syntatical sugar) syntaxes
 
 ### Basics Part 2 (classes and OOP)
-earn classes, properties, constructors, and basic object oriented programming
+Learn classes, properties, constructors, and basic object oriented programming
 - Classes, properties, methods in classes
 - Separating large projects into multiple classes, namespaces, accessors (public, private, internal, etc)
 - Class constructors
