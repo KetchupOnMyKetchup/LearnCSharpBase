@@ -6,7 +6,8 @@ This guide and code base is intended:
 - **To be completely free!!!** Nothing in this guide costs money, this guide and everything linked in it is free, you can teach yourself to do C# dev without paying a dime! 
 
 # Syllabus
-Pair with the following syllabus I created and use this as a way to measure progress and a guide to what you need to learn to become a junior C# .NET developer: http://www.crystaltenn.com/2020/03/learn-c-from-scratch-comprehensive.html
+- http://www.crystaltenn.com/2020/03/learn-c-from-scratch-comprehensive.html
+- Pair with the above syllabus and use this as a way to measure progress and a guide to what you need to go from zero dev experience to learn to become a junior C# .NET developer.
 
 # Pre-requisites
 ### Download Visual Studio Community (free)
