@@ -79,6 +79,11 @@ The following is a screenshot of the contents in Visual Studio:
 
 ![image](https://user-images.githubusercontent.com/7976517/131232428-e86066e2-7432-42b2-9f0e-cef408199a85.png)
 
+# If you have a mentor.. additional advice:
+- If mentors can setup a GitHub or Azure DevOps project and work with you on a sprint basis, help you break down work into Epics/Features/User Stories/Tasks and teach you how to work in an Agile/Scrum environment this will help you adjust to working and estimating work.  Also then you will understand what it's like to be in a sprint in a very hands-on manner. 
+- If mentors can have you fork this repo, then create a branch, do your work, do a pull request, describe what you did, then they review and leave comments on your pull request, you will learn how developers push and work on code everyday! Also it will really help you with your Git skills and confidence! 
+- The above two will help you with both interviews and working in your actual job and help ease your transition into dev work!
+
 # Additional Content to learn
 These resources are unrelated to Project and can be done at anytime before/after/during project content but are very useful to becoming a software engineer and will help you get started at work quicker.
 
