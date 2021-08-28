@@ -3,6 +3,7 @@ This guide and code base is intended:
 - **Self study**: For anyone who wants to learn how to program in C# with no dev or C# experience at all.  The videos in the pre-reqs section should be enough to get you started on basics, and this project and repo is intended to be more in depth with hands-on projects and homework with solutions.
 - **Mentors**: For mentors to give a set of working projects, homework, and links to teach someone C#.
 - To provide clean code in order of increasing difficulty to get hands-on practice, a syllabus for progress, and enough videos to get started on your own without any help.
+- **To be completely free** nothing in this guide costs money, this guide and everything linked in it is free, you can teach yourself to do C# dev without paying a dime! 
 
 # Syllabus
 Pair with the following syllabus I created and use this as a way to measure progress and a guide to what you need to learn to become a junior C# .NET developer: http://www.crystaltenn.com/2020/03/learn-c-from-scratch-comprehensive.html
