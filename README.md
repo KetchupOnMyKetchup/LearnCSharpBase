@@ -15,13 +15,13 @@ Pair with the following syllabus I created and use this as a way to measure prog
 - If you have any issues installing or don't know what to install, go here: https://www.youtube.com/watch?v=nbbIesdfCSI
 
 ### Install Git (free)
-https://git-scm.com/downloads *Just hit Next on the installer and get all defaults
+- https://git-scm.com/downloads *Just hit Next on the installer and get all defaults
 
 ### Interactive C# Tutorial 
-Interactive C# tutorials for basic knowledge: https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/
+- [Interactive C# tutorials for basic knowledge](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/)
 
 ### Visual Studio 
-- [Getting Started with Visual Studio 2019] (https://www.youtube.com/watch?v=1CgsMtUmVgs)  **Version 2019 doesn't matter, this will apply to newer versions
+- [Getting Started with Visual Studio 2019](https://www.youtube.com/watch?v=1CgsMtUmVgs)  **Version 2019 doesn't matter, this will apply to newer versions
 - [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) It's 4.5 hours but will get you started and is well worth the time and will prevent you from struggling through how to use VS because you can follow along in the tutorial video. 
 
 # This Project
