@@ -1,6 +1,5 @@
 # LearnCSharp
-THIS IS A WORK IN PROGRESS AND NOT COMPLETED YET. LAST UPDATE 4/2/2020
-
+THIS IS A WORK IN PROGRESS AND NOT COMPLETED YET. LAST UPDATE 8/28/21
 ### Overview
 This code base is intended:
 - To help people learn how to program in C# who have no dev or C# experience at all. 
