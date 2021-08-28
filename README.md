@@ -84,7 +84,7 @@ The following is a screenshot of the contents in Visual Studio:
 - If mentors can have you fork this repo, then create a branch, do your work, do a pull request, describe what you did, then they review and leave comments on your pull request, you will learn how developers push and work on code everyday! Also it will really help you with your Git skills and confidence! 
 - The above two will help you with both interviews and working in your actual job and help ease your transition into dev work!
 
-# Additional Content to learn
+# Additional Self-Study Content
 These resources are unrelated to Project and can be done at anytime before/after/during project content but are very useful to becoming a software engineer and will help you get started at work quicker.
 
 - [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)
