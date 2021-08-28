@@ -1,5 +1,8 @@
 # LearnCSharp
 THIS IS A WORK IN PROGRESS AND NOT COMPLETED YET. LAST UPDATE 8/28/21
+
+This should be paired with the following syllabus I created here and it approximately follows it: http://www.crystaltenn.com/2020/03/learn-c-from-scratch-comprehensive.html
+
 ### Overview
 This code base is intended:
 - To help people learn how to program in C# who have no dev or C# experience at all. 
@@ -14,9 +17,6 @@ The solution is split into the following parts:
 - LearnCSharp: Foundations of C# for those with no dev experience. 
   - Basics Part 1: Learn types, variables, methods, collections (arrays and lists), and loops
   - Basics Part 2: Learn classes, properties, constructors, and basic object oriented programming
-- ToDoList App: End to End solution with Front-end, API layer, and DB connection (TBD)
-- ShoeDistribuitor App
-- \asdf
 
 ### What is programming?
 
@@ -40,6 +40,7 @@ The solution is split into the following parts:
 - F5 to debug
 - F10 to step to the next line
 - F11 to step into a method
+- CTRL + SHIFT + B build project
 
 ### Debugging in Visual Studio
 - Click on the Run button as seen or hit the shortcut F5. 
@@ -71,4 +72,3 @@ This guide can be used with no experience programming at all.
 - Method overloading
 - Unit testing
 - Debugging practice, fix broken code!
-# LearnCSharpBase
