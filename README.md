@@ -77,7 +77,9 @@ The following is a screenshot of the contents in Visual Studio:
 
 ![image](https://user-images.githubusercontent.com/7976517/131232428-e86066e2-7432-42b2-9f0e-cef408199a85.png)
 
-# Additional Content to learn (unrelated to Project and can be done at anytime before/after/during project content)
+# Additional Content to learn
+These resources are unrelated to Project and can be done at anytime before/after/during project content but are very useful to becoming a software engineer and will help you get started at work quicker.
+
 - [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)
 - [Intro to Source Control: A Must-Have Tool for Programmers](https://www.youtube.com/watch?v=K0mgc3efx-A)
 - [ASP.NET Core Crash Course - C# App in One Hour](https://www.youtube.com/watch?v=BfEjDD8mWYg)
