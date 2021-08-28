@@ -27,12 +27,15 @@ Pair with the following syllabus I created and use this as a way to measure prog
 # This Project
 ### Downloading this project
 - Make sure you have Git installed
-- Navigate to: 
+- Navigate to: https://github.com/KetchupOnMyKetchup/LearnCSharpBase (this page)
 - Hit Code, then Local, then Copy as seen in the screenshot above the URL to this repository.
-![image](https://user-images.githubusercontent.com/7976517/131232750-6e8812e5-f1f3-45ff-808b-e83f6fd9915b.png)
-- Open Git Bash on your desktop which you should have after installing Git.  Type `git clone https://github.com/KetchupOnMyKetchup/LearnCSharpBase.git`  
-![image](https://user-images.githubusercontent.com/7976517/131232767-e4d30787-a3cd-423c-bd62-1df016c79189.png)
-
+- ![image](https://user-images.githubusercontent.com/7976517/131232750-6e8812e5-f1f3-45ff-808b-e83f6fd9915b.png)
+- Open Git Bash on your desktop which you should have after installing Git.  
+- `cd` to the location you want to download this to or just download to default and move it later
+- Type `git clone https://github.com/KetchupOnMyKetchup/LearnCSharpBase.git`  
+- ![image](https://user-images.githubusercontent.com/7976517/131232767-e4d30787-a3cd-423c-bd62-1df016c79189.png)
+- Open `.sln` file in Visual Studio
+- ![image](https://user-images.githubusercontent.com/7976517/131232797-acb281e6-d1d7-4cd5-a113-af5e55ebea39.png)
 
 ### Basic Shortcuts and Usage of Visual Studio
 - F5 to debug
