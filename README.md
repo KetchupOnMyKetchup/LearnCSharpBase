@@ -63,5 +63,7 @@ This guide can be used with no experience programming at all. Go into the Progra
 - Unit testing
 - Debugging practice, fix broken code!
 
+### Content
 The following is a screenshot of the contents in Visual Studio:
+
 ![image](https://user-images.githubusercontent.com/7976517/131232428-e86066e2-7432-42b2-9f0e-cef408199a85.png)
