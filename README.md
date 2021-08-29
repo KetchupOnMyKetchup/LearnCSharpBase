@@ -48,7 +48,14 @@ Take your pick between the below two, do both, do one of them, but use this to l
 - CTRL + SHIFT + B build project
 
 # How to Use This Guide
-Go into the `Program.cs` file and follow the instructions and order there.  If you do not have a mentor or do not know how to use Visual Studio, watch the video linked above or click here: https://www.youtube.com/watch?v=GhQdlIFylQ8
+1. Go into the `Program.cs` file and follow the instructions and order there.  If you do not have a mentor or do not know how to use Visual Studio, watch the video linked above or click here: https://www.youtube.com/watch?v=GhQdlIFylQ8
+1. Go through Part 1 and complete all hw and projects
+1. After part 1, watch the below materials to watch after Part 1, and before starting Part 2 about Object Oriented Programming (OOP)
+- [Object-oriented Programming in 7 minutes | Mosh](https://www.youtube.com/watch?v=pTB0EiLXUC8)
+- [Intro to Object Oriented Programming - Crash Course](https://www.youtube.com/watch?v=SiBw7os-_zI)
+1. Go through part 2 and complete all hw and projects
+1. Go through additional content as needed
+1. Go through interview questions online to see if you have any gaps in knowledge, you can search things like `C# interview questions` for example to get an idea of what could be asked. 
 
 # Content
 ### Basics Part 1 (everything before classes)
@@ -67,10 +74,6 @@ Learn types, variables, methods, collections (arrays and lists), and loops
 - Methods
 - Different syntaxes / shortcut (syntatical sugar) syntaxes
 
-### Materials to watch after Part 1, and before starting Part 2 about Object Oriented Programming (OOP)
-- [Object-oriented Programming in 7 minutes | Mosh](https://www.youtube.com/watch?v=pTB0EiLXUC8)
-- [Intro to Object Oriented Programming - Crash Course](https://www.youtube.com/watch?v=SiBw7os-_zI)
-
 ### Basics Part 2 (classes and OOP)
 Learn classes, properties, constructors, and basic object oriented programming
 - Classes, properties, methods in classes
@@ -85,7 +88,7 @@ The following is a screenshot of the contents in Visual Studio:
 
 ![image](https://user-images.githubusercontent.com/7976517/131232428-e86066e2-7432-42b2-9f0e-cef408199a85.png)
 
-# If you have a mentor.. additional advice:
+#### Additional advice for if you have a mentor or are a mentor:
 - If mentors can setup a GitHub or Azure DevOps project and work with you on a sprint basis, help you break down work into Epics/Features/User Stories/Tasks and teach you how to work in an Agile/Scrum environment this will help you adjust to working and estimating work.  Also then you will understand what it's like to be in a sprint in a very hands-on manner. 
 - If mentors can have you fork this repo, then create a branch, do your work, do a pull request, describe what you did, then they review and leave comments on your pull request, you will learn how developers push and work on code everyday! Also it will really help you with your Git skills and confidence! 
 - The above two will help you with both interviews and working in your actual job and help ease your transition into dev work!
@@ -113,6 +116,11 @@ These resources are unrelated to Project and can be done before/after/during pro
 - [Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)
 - [React JS Course for Beginners - 2021 Tutorial](https://www.youtube.com/watch?v=nTeuhbP7wdE)
 - [Learn TypeScript - Full Course for Beginners](https://www.youtube.com/watch?v=gp5H0Vw39yw)
+
+#### Databases
+- [Database Tutorial for Beginners](https://www.youtube.com/watch?v=wR0jg0eQsZA)
+- [SQL vs NoSQL or MySQL vs MongoDB](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
+- [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 
 #### Git and Source Control
 - [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)
