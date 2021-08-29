@@ -67,6 +67,10 @@ Learn types, variables, methods, collections (arrays and lists), and loops
 - Methods
 - Different syntaxes / shortcut (syntatical sugar) syntaxes
 
+### Materials to watch after Part 1, and before starting Part 2 about Object Oriented Programming (OOP)
+- [Object-oriented Programming in 7 minutes | Mosh](https://www.youtube.com/watch?v=pTB0EiLXUC8)
+- [Intro to Object Oriented Programming - Crash Course](https://www.youtube.com/watch?v=SiBw7os-_zI)
+
 ### Basics Part 2 (classes and OOP)
 Learn classes, properties, constructors, and basic object oriented programming
 - Classes, properties, methods in classes
@@ -96,3 +100,4 @@ These resources are unrelated to Project and can be done at anytime before/after
 - [What is Agile?](https://www.youtube.com/watch?v=Z9QbYZh1YXY)
 - [Introduction to Scrum - 7 Minutes](https://www.youtube.com/watch?v=9TycLR0TqFA)
 - [Kanban vs Scrum | Difference between Kanban and Scrum](https://www.youtube.com/watch?v=F5QIqFEDv2k)
+- [Data Structures and Algorithms for Beginners](https://www.youtube.com/watch?v=BBpAmxU_NQo)
