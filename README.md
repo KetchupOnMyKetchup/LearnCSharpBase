@@ -137,5 +137,5 @@ These resources are unrelated to Project and can be done before/after/during pro
 - [Data Structures and Algorithms for Beginners](https://www.youtube.com/watch?v=BBpAmxU_NQo)
 
 #### Resume Writing
-Below is golden, we used this as a guide to revamp our resumes years into our career and it helped a lot!
+Below is a golden resource we highly recommend, we used this as a guide to revamp our own resumes years into our career and it helped a lot!
 - [How to write a killer Software Engineering résumé](https://www.freecodecamp.org/news/writing-a-killer-software-engineering-resume-b11c91ef699d/)
