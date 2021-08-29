@@ -90,14 +90,38 @@ The following is a screenshot of the contents in Visual Studio:
 - If mentors can have you fork this repo, then create a branch, do your work, do a pull request, describe what you did, then they review and leave comments on your pull request, you will learn how developers push and work on code everyday! Also it will really help you with your Git skills and confidence! 
 - The above two will help you with both interviews and working in your actual job and help ease your transition into dev work!
 
-# Additional Self-Study Content
-These resources are unrelated to Project and can be done at anytime before/after/during project content but are very useful to becoming a software engineer and will help you get started at work quicker.
+# Continue your C# Education!
+Below is a completely free and comprehensive 24-hour-long course, where you can use C# and follow along to make an application from start to finish.
+- [Create a C# Application from Start to Finish - Complete Course](https://www.youtube.com/watch?v=wfWxdh-_k_4)
 
+# Additional Self-Study Content
+These resources are unrelated to Project and can be done before/after/during project content but are very useful to becoming a software engineer and will help you get started at work quicker.
+
+### More C# and .NET resources
+- [ASP.NET Core Crash Course - C# App in One Hour](https://www.youtube.com/watch?v=BfEjDD8mWYg) 
+- [.NET Framework vs .NET Core vs .NET vs .NET Standard vs C#](https://www.youtube.com/watch?v=4olO9UjRiww)
+- [Top 50 C# Interview Questions and Answers | C# Interview Preparation | Edureka](https://www.youtube.com/watch?v=ipYKV3U8SyM)
+
+### Web development general (HTTP, SSL, and more)
+- [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+- [SSL, TLS, HTTP, HTTPS Explained](https://www.youtube.com/watch?v=hExRDVZHhig)
+- [APIs for Beginners - How to use an API (Full Course / Tutorial)](https://www.youtube.com/watch?v=GZvSYJDk-us)
+
+### Web development front-end technologies
+- [Learn HTML5 and CSS3 From Scratch - Full Course](https://www.youtube.com/watch?v=mU6anWqZJcc)
+- [Flexbox CSS In 20 Minutes](https://www.youtube.com/watch?v=JJSoEo8JSnc)
+- [Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)
+- [React JS Course for Beginners - 2021 Tutorial](https://www.youtube.com/watch?v=nTeuhbP7wdE)
+- [Learn TypeScript - Full Course for Beginners](https://www.youtube.com/watch?v=gp5H0Vw39yw)
+
+### Git and Source Control
 - [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)
 - [Intro to Source Control: A Must-Have Tool for Programmers](https://www.youtube.com/watch?v=K0mgc3efx-A)
-- [ASP.NET Core Crash Course - C# App in One Hour](https://www.youtube.com/watch?v=BfEjDD8mWYg)
-- [.NET Framework vs .NET Core vs .NET vs .NET Standard vs C#](https://www.youtube.com/watch?v=4olO9UjRiww)
+
+# Agile/Scrum/Kanban and workflow 
 - [What is Agile?](https://www.youtube.com/watch?v=Z9QbYZh1YXY)
 - [Introduction to Scrum - 7 Minutes](https://www.youtube.com/watch?v=9TycLR0TqFA)
 - [Kanban vs Scrum | Difference between Kanban and Scrum](https://www.youtube.com/watch?v=F5QIqFEDv2k)
+
+# Intro to Data Structures and Algorithms
 - [Data Structures and Algorithms for Beginners](https://www.youtube.com/watch?v=BBpAmxU_NQo)
