@@ -135,3 +135,7 @@ These resources are unrelated to Project and can be done before/after/during pro
 
 #### Intro to Data Structures and Algorithms
 - [Data Structures and Algorithms for Beginners](https://www.youtube.com/watch?v=BBpAmxU_NQo)
+
+#### Resume Writing
+Below is golden, we used this as a guide to revamp our resumes years into our career and it helped a lot!
+- [How to write a killer Software Engineering résumé](https://www.freecodecamp.org/news/writing-a-killer-software-engineering-resume-b11c91ef699d/)
