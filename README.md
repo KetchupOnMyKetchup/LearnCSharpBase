@@ -97,31 +97,31 @@ Below is a completely free and comprehensive 24-hour-long course, where you can 
 # Additional Self-Study Content
 These resources are unrelated to Project and can be done before/after/during project content but are very useful to becoming a software engineer and will help you get started at work quicker.
 
-### More C# and .NET resources
+#### More C# and .NET resources
 - [ASP.NET Core Crash Course - C# App in One Hour](https://www.youtube.com/watch?v=BfEjDD8mWYg) 
 - [.NET Framework vs .NET Core vs .NET vs .NET Standard vs C#](https://www.youtube.com/watch?v=4olO9UjRiww)
 - [Top 50 C# Interview Questions and Answers | C# Interview Preparation | Edureka](https://www.youtube.com/watch?v=ipYKV3U8SyM)
 
-### Web development general (HTTP, SSL, and more)
+#### Web development general (HTTP, SSL, and more)
 - [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 - [SSL, TLS, HTTP, HTTPS Explained](https://www.youtube.com/watch?v=hExRDVZHhig)
 - [APIs for Beginners - How to use an API (Full Course / Tutorial)](https://www.youtube.com/watch?v=GZvSYJDk-us)
 
-### Web development front-end technologies
+#### Web development front-end technologies
 - [Learn HTML5 and CSS3 From Scratch - Full Course](https://www.youtube.com/watch?v=mU6anWqZJcc)
 - [Flexbox CSS In 20 Minutes](https://www.youtube.com/watch?v=JJSoEo8JSnc)
 - [Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)
 - [React JS Course for Beginners - 2021 Tutorial](https://www.youtube.com/watch?v=nTeuhbP7wdE)
 - [Learn TypeScript - Full Course for Beginners](https://www.youtube.com/watch?v=gp5H0Vw39yw)
 
-### Git and Source Control
+#### Git and Source Control
 - [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)
 - [Intro to Source Control: A Must-Have Tool for Programmers](https://www.youtube.com/watch?v=K0mgc3efx-A)
 
-# Agile/Scrum/Kanban and workflow 
+#### Agile/Scrum/Kanban and workflow 
 - [What is Agile?](https://www.youtube.com/watch?v=Z9QbYZh1YXY)
 - [Introduction to Scrum - 7 Minutes](https://www.youtube.com/watch?v=9TycLR0TqFA)
 - [Kanban vs Scrum | Difference between Kanban and Scrum](https://www.youtube.com/watch?v=F5QIqFEDv2k)
 
-# Intro to Data Structures and Algorithms
+#### Intro to Data Structures and Algorithms
 - [Data Structures and Algorithms for Beginners](https://www.youtube.com/watch?v=BBpAmxU_NQo)
