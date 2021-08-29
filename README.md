@@ -1,8 +1,10 @@
 # Overview
-This guide and code base is intended:
-- **Self study**: For anyone who wants to learn how to program in C# with no dev or C# experience at all.  The videos in the pre-reqs section should be enough to get you started on basics, and this project and repo is intended to be more in depth with hands-on projects and homework with solutions.
+This guide and code base is intended for self study or for mentor/mentee pairs:
+- To provide enough external resources for someone with no dev to have resources to learn to get themselves started with Visual Studio and C#.
+- To provide a project rich with projects and homework (with solutions) to teach C# the language itself from zero to intermediate (no front-end or databases, just learning how to do dev) in a hands-on manner.
+- To provide links to additional external content for you to continue your journey with front-end web development, try out making a full application connecting to a database, about workflow, and more. 
+- To have enough content in this file to get someone with no idea how to code, to get themselves enough information to be able to land themselves a job and to understand the full picture of what is needed with a syllabus and step by step instructions. 
 - **Mentors**: For mentors to give a set of working projects, homework, and links to teach someone C#.
-- To provide clean code in order of increasing difficulty to get hands-on practice with C# specifically (no front-end or databases, just learning how to do dev), a syllabus for progress, and enough videos to get started on your own without any help.  Additional external content is linked for you to continue your journey later and learn how to do web development technologies or try out making a full application connecting to a database. 
 - **To be completely free!!!** Nothing in this guide costs money, this guide and everything linked in it is free, you can teach yourself to do C# dev without paying a dime! 
 
 # Syllabus
